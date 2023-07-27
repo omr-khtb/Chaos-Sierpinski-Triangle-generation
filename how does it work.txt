@@ -1,0 +1,7 @@
+1- Draw equal sides triangle with 60 degrees
+2- choose a random point in the triangle
+3- choose a random vertex and then calculate the midpoint between this vertex and the point you chose using the midpoint formula (x1+x2/2,y1+y2/2)
+4-draw another point at that position 
+5-repeat step 3 and 4 infinite times then you will get infinite number of triangles inside the main triangle
+
+you can see this live using the python script
